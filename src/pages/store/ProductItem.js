@@ -24,7 +24,7 @@ const ProductItem = ({product}) => {
                     isInCart(product) && 
                     <button 
                     onClick={() => increase(product)}
-                    className="btn btn-outline-primary btn-sm">Daha fazla ekle</button>
+                    className="btn btn-outline-primary btn-sm">Daha fazla ekle </button>
                 }
 
                 {
