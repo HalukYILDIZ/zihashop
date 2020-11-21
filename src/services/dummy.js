@@ -13,6 +13,12 @@ export const dummyProducts = [
   },
   {
     id: 3,
+    name: "DJI PHANTOM 4",
+    price: 1599.90,
+    photo: "/img/4.png"
+  },
+  {
+    id: 4,
     name: "DJI AGRAS T16 Akıllı Şarj Cihazı",
     price: 2099.90,
     photo: "/img/3.png"
