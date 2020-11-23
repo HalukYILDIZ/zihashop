@@ -10,8 +10,8 @@ const Layout = ({title, description, children}) => {
     return ( 
         <>
         <Helmet>
-            <title>{ title ? title + " - React Boilerplate" : "React.js Boilerplate" }</title>
-            <meta name = "description" content={ description || "React.js Boilerplate" } />
+            <title>{ title ? title + " - zihatim market" : "zihatim market" }</title>
+            <meta name = "description" content={ description || "zihatim market" } />
         </Helmet>
         <Header/>
         <main className="container">
