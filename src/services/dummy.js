@@ -47,4 +47,28 @@ export const dummyProducts = [
     price: 1098.00,
     photo: "/img/8.png"
   },
+    {
+    id: 9,
+    name: "DJI Matrice 200 V2.0 Drone Seti",
+    price: 6898.31,
+    photo: "/img/9.jpg",
+  },
+  {
+    id: 10,
+    name: "DJI Matrice 200 TB55 Batarya Part 03",
+    price: 600.00,
+    photo: "/img/10.jpg"
+  },
+  {
+    id: 11,
+    name: "DJI Matrice 210 V2.0 Drone Seti",
+    price: 12288.14,
+    photo: "/img/11.png"
+  },
+  {
+    id: 12,
+    name: "DJI Matrice 600 Pro Drone Seti",
+    price: 7530.00,
+    photo: "/img/12.jpg"
+  },
 ];
