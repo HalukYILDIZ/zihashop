@@ -12,7 +12,7 @@ const About = () => {
         </p>
 
         <a className="btn btn-primary" href="https://www.zihatim.com">
-          <span className="ml-2 mr-4">Anasayfaya dön </span>
+          <span className="ml-2 mr-4">Zihatim</span>
         </a>
       </div>
     </Layout>
