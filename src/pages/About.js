@@ -1,6 +1,5 @@
 import React from "react";
 import Layout from "../components/Layout";
-import { GitHubIcon } from "../components/icons";
 
 const About = () => {
   return (
